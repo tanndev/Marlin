@@ -38,6 +38,7 @@ applet/
 *.rej
 *.bak
 *.idea
+*.iml
 *.s
 *.i
 *.ii
